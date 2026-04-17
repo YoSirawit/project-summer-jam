@@ -1,0 +1,35 @@
+# Visual Studio files
+.vs/
+.vscode/
+*.VC.db
+*.VC.opendb
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+
+# Build folders
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# User-specific files
+*.opensdf
+*.sdf
+*.tmp
+*.log
+*.pdb
+*.obj
+*.ipch
+
+# Ignore packaged builds
+Windows/
+Linux/
+Mac/
+Android/
+IOS/
+
+# Ignore engine-generated files
+FileOpenOrder/
